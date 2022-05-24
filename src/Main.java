@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Random;
 
-public class Main {
+public class Main extends BubbleSort {
     public static void main(String[] args) {
 
 
@@ -18,6 +18,8 @@ public class Main {
 
 
     }
+
+
 }
 
 
